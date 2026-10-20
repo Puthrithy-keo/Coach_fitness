@@ -1,0 +1,575 @@
+[
+  {
+    "id": "ex_001",
+    "category": "exercises",
+    "topic": "chest",
+    "question": "What is the best exercise for building chest mass?",
+    "answer": "The barbell bench press is widely considered the best compound exercise for building overall chest mass. It recruits the pectoralis major, anterior deltoids, and triceps. Supplement it with incline dumbbell presses to target the upper chest and cable flyes for chest isolation and stretch.",
+    "keywords": [
+      "chest",
+      "bench press",
+      "pectoralis",
+      "compound",
+      "mass"
+    ]
+  },
+  {
+    "id": "ex_002",
+    "category": "exercises",
+    "topic": "back",
+    "question": "How do I build a thicker back?",
+    "answer": "For back thickness, prioritize horizontal pulling movements: barbell rows, dumbbell rows, and seated cable rows. These target the mid-back (rhomboids and middle traps). For width (lats), add vertical pulls like pull-ups, lat pulldowns, and straight-arm pulldowns. Aim for 4-6 sets of rowing per session.",
+    "keywords": [
+      "back",
+      "rows",
+      "lat",
+      "rhomboids",
+      "thickness",
+      "width"
+    ]
+  },
+  {
+    "id": "ex_003",
+    "category": "exercises",
+    "topic": "legs",
+    "question": "What are the best exercises for bigger legs?",
+    "answer": "Squats are the king of leg exercises. Barbell back squats and front squats build overall leg mass. Add Romanian deadlifts for hamstrings, leg press for quad volume, and walking lunges for quad and glute development. Calf raises (standing and seated) are essential for complete lower leg development.",
+    "keywords": [
+      "legs",
+      "squats",
+      "hamstrings",
+      "quads",
+      "calves",
+      "glutes"
+    ]
+  },
+  {
+    "id": "ex_004",
+    "category": "exercises",
+    "topic": "shoulders",
+    "question": "How do I build wider shoulders?",
+    "answer": "Lateral raises are key for building the medial deltoid, which creates shoulder width. Perform 4-5 sets of lateral raises 2-3x per week. Combine with overhead pressing (barbell or dumbbell) for overall shoulder mass. Face pulls and rear delt flyes will balance the development and prevent injuries.",
+    "keywords": [
+      "shoulders",
+      "lateral raises",
+      "deltoid",
+      "overhead press",
+      "width"
+    ]
+  },
+  {
+    "id": "ex_005",
+    "category": "exercises",
+    "topic": "arms",
+    "question": "What is the most effective bicep exercise?",
+    "answer": "The barbell curl provides the highest mechanical advantage for the biceps. For complete bicep development, pair it with: incline dumbbell curls (long head stretch), hammer curls (brachialis), and concentration curls (peak contraction). Use a full range of motion and avoid swinging the body for best results.",
+    "keywords": [
+      "biceps",
+      "curl",
+      "barbell curl",
+      "hammer curl",
+      "arms"
+    ]
+  },
+  {
+    "id": "ex_006",
+    "category": "exercises",
+    "topic": "arms",
+    "question": "How do I build bigger triceps?",
+    "answer": "The triceps make up about 2/3 of upper arm size. Best exercises: close-grip bench press and weighted dips (mass builders), skull crushers (long head), tricep pushdowns (lateral head), and overhead tricep extensions (long head stretch). Train all 3 heads for complete development.",
+    "keywords": [
+      "triceps",
+      "arms",
+      "close-grip bench",
+      "skull crushers",
+      "dips",
+      "pushdowns"
+    ]
+  },
+  {
+    "id": "ex_007",
+    "category": "exercises",
+    "topic": "core",
+    "question": "What are the best core exercises for a strong midsection?",
+    "answer": "Effective core training goes beyond crunches. Top exercises: plank variations (anti-extension), pallof press (anti-rotation), cable woodchops (rotational), hanging leg raises (lower abs), and ab wheel rollouts (full core). For visible abs, reduce body fat through diet - you can't out-train poor nutrition.",
+    "keywords": [
+      "core",
+      "abs",
+      "plank",
+      "obliques",
+      "midsection",
+      "stomach"
+    ]
+  },
+  {
+    "id": "ex_008",
+    "category": "exercises",
+    "topic": "glutes",
+    "question": "How do I grow my glutes?",
+    "answer": "Glute growth requires targeting the muscle through its full range of motion. Best exercises: hip thrusts (peak contraction), Romanian deadlifts (stretch), squats (overall mass), Bulgarian split squats (unilateral), and cable kickbacks (isolation). Progressive overload is critical - increase weight or reps consistently.",
+    "keywords": [
+      "glutes",
+      "butt",
+      "hip thrusts",
+      "deadlifts",
+      "squats",
+      "split squats"
+    ]
+  },
+  {
+    "id": "ex_009",
+    "category": "exercises",
+    "topic": "chest",
+    "question": "What is the correct bench press form?",
+    "answer": "Proper bench press form: (1) Lie flat, eyes under the bar. (2) Grip slightly wider than shoulder-width. (3) Retract and depress scapulae (create an arch). (4) Unrack and lower bar to lower chest (nipple line). (5) Drive feet into floor. (6) Press bar up and slightly back toward the rack. Keep wrists straight and elbows at 45-75 degrees to torso.",
+    "keywords": [
+      "bench press",
+      "form",
+      "technique",
+      "chest",
+      "scapula",
+      "grip"
+    ]
+  },
+  {
+    "id": "ex_010",
+    "category": "exercises",
+    "topic": "legs",
+    "question": "What is the proper squat form?",
+    "answer": "Squat form checklist: (1) Stand shoulder-width apart, toes slightly out. (2) Brace your core and maintain a neutral spine. (3) Initiate by breaking at the hips and knees simultaneously. (4) Descend until thighs are parallel or below. (5) Drive through the full foot on the way up. (6) Keep knees tracking over toes. (7) Keep chest up, avoid excessive forward lean.",
+    "keywords": [
+      "squat",
+      "form",
+      "technique",
+      "legs",
+      "spine",
+      "knees",
+      "parallel"
+    ]
+  },
+  {
+    "id": "wp_001",
+    "category": "workout_plans",
+    "topic": "beginner",
+    "question": "What is a good workout plan for beginners?",
+    "answer": "Beginners should follow a full-body 3-day program (e.g., Mon/Wed/Fri). A proven structure: Squat, Bench Press, Barbell Row - all done 3x5. Progress by adding 2.5-5kg each session (linear progression). Programs like StrongLifts 5x5 or Starting Strength are ideal. Avoid splitting muscle groups until 6-12 months of consistent training.",
+    "keywords": [
+      "beginner",
+      "workout plan",
+      "full body",
+      "3 day",
+      "linear progression",
+      "stronglifts",
+      "starting strength"
+    ]
+  },
+  {
+    "id": "wp_002",
+    "category": "workout_plans",
+    "topic": "intermediate",
+    "question": "What is a good intermediate lifting program?",
+    "answer": "Once linear progression stalls, move to an intermediate program. Popular options: GZCLP (4-day upper/lower split), PHUL (Power Hypertrophy Upper Lower), or Texas Method (3-day volume/recovery/intensity). These introduce weekly periodization. Intermediate is typically 1-2 years of consistent training.",
+    "keywords": [
+      "intermediate",
+      "program",
+      "upper lower",
+      "PHUL",
+      "periodization",
+      "GZCLP"
+    ]
+  },
+  {
+    "id": "wp_003",
+    "category": "workout_plans",
+    "topic": "hypertrophy",
+    "question": "How many sets and reps should I do for muscle growth?",
+    "answer": "For hypertrophy (muscle growth), the optimal range is 6-20 reps per set, with most research supporting 8-15 as a sweet spot. Aim for 10-20 working sets per muscle group per week. Sets should be taken close to muscular failure (1-3 RIR - Reps In Reserve). Volume should be distributed across 2+ sessions per week per muscle.",
+    "keywords": [
+      "sets",
+      "reps",
+      "hypertrophy",
+      "muscle growth",
+      "volume",
+      "RIR",
+      "failure"
+    ]
+  },
+  {
+    "id": "wp_004",
+    "category": "workout_plans",
+    "topic": "strength",
+    "question": "How do I train specifically for strength?",
+    "answer": "Strength training focuses on the 1-5 rep range with 80-95% of your 1-rep max. Rest 3-5 minutes between sets. Key movements: squat, deadlift, bench press, overhead press. Periodization is crucial - cycle between volume, intensity, and deload weeks. Powerlifting programs like 5/3/1 or Sheiko are well-structured.",
+    "keywords": [
+      "strength",
+      "powerlifting",
+      "1-5 reps",
+      "heavy",
+      "1RM",
+      "5/3/1",
+      "periodization"
+    ]
+  },
+  {
+    "id": "wp_005",
+    "category": "workout_plans",
+    "topic": "push_pull_legs",
+    "question": "What is a Push Pull Legs (PPL) split and is it good?",
+    "answer": "Push Pull Legs is a 6-day training split: Day 1 Push (chest/shoulders/triceps), Day 2 Pull (back/biceps), Day 3 Legs, repeated twice per week. It's excellent for intermediate-advanced lifters wanting high frequency and volume. Each muscle gets trained twice per week. It requires good recovery and is not ideal for beginners.",
+    "keywords": [
+      "push pull legs",
+      "PPL",
+      "6 day split",
+      "training split",
+      "frequency",
+      "intermediate"
+    ]
+  },
+  {
+    "id": "wp_006",
+    "category": "workout_plans",
+    "topic": "fat_loss",
+    "question": "What is the best workout plan for fat loss?",
+    "answer": "For fat loss, resistance training is more important than cardio for preserving muscle. Follow a calorie deficit diet (primary driver) + 3-4 days of lifting (full body or upper/lower) + optional 2-3 days of cardio (LISS: brisk walking, cycling). Maintain lifting intensity close to maintenance to signal the body to preserve muscle mass.",
+    "keywords": [
+      "fat loss",
+      "weight loss",
+      "cutting",
+      "cardio",
+      "deficit",
+      "preserve muscle",
+      "LISS"
+    ]
+  },
+  {
+    "id": "wp_007",
+    "category": "workout_plans",
+    "topic": "frequency",
+    "question": "How often should I train each muscle group per week?",
+    "answer": "Research supports training each muscle group 2x per week as optimal for hypertrophy. Once per week (bro split) is sufficient for maintenance but suboptimal for growth. 3x per week can work for advanced athletes with high recovery capacity. For most people, 2x per week with 10-20 sets per muscle is the sweet spot.",
+    "keywords": [
+      "frequency",
+      "muscle group",
+      "per week",
+      "2x",
+      "bro split",
+      "training frequency"
+    ]
+  },
+  {
+    "id": "wp_008",
+    "category": "workout_plans",
+    "topic": "rest_days",
+    "question": "How many rest days do I need per week?",
+    "answer": "Most people need 1-2 full rest days per week. Muscles grow during recovery, not during training. Signs you need more rest: persistent soreness, declining performance, poor sleep, or low motivation. Active recovery (light walking, stretching, yoga) on rest days can enhance blood flow without impeding recovery.",
+    "keywords": [
+      "rest days",
+      "recovery",
+      "overtraining",
+      "muscle growth",
+      "active recovery"
+    ]
+  },
+  {
+    "id": "wp_009",
+    "category": "workout_plans",
+    "topic": "warm_up",
+    "question": "How should I warm up before lifting?",
+    "answer": "A proper warm-up has two phases: (1) General warm-up: 5-10 min of light cardio (rowing, cycling) to raise heart rate and core temperature. (2) Specific warm-up: 2-3 ramp-up sets of your first main lift (30%, 50%, 70% of working weight). This primes the nervous system and reduces injury risk. Skip static stretching before lifting.",
+    "keywords": [
+      "warm up",
+      "stretching",
+      "pre-workout",
+      "injury prevention",
+      "ramp up sets"
+    ]
+  },
+  {
+    "id": "wp_010",
+    "category": "workout_plans",
+    "topic": "progressive_overload",
+    "question": "What is progressive overload and why is it important?",
+    "answer": "Progressive overload is the gradual increase of stress placed on the body during training. Without it, you'll plateau. Methods: add weight, add reps, add sets, reduce rest time, improve technique, or increase range of motion. Track your lifts - if you're not progressing over weeks/months, something needs to change.",
+    "keywords": [
+      "progressive overload",
+      "plateau",
+      "progress",
+      "gains",
+      "tracking",
+      "improvement"
+    ]
+  },
+  {
+    "id": "wp_011",
+    "category": "workout_plans",
+    "topic": "supersets",
+    "question": "What are supersets and should I use them?",
+    "answer": "Supersets involve performing two exercises back-to-back with no rest. Types: (1) Agonist supersets (same muscle) - increase metabolic stress. (2) Antagonist supersets (opposing muscles, e.g., bicep curl + tricep pushdown) - save time, maintain strength. They are time-efficient but increase cardiovascular demand and may require lighter weights.",
+    "keywords": [
+      "supersets",
+      "training efficiency",
+      "agonist",
+      "antagonist",
+      "time saving"
+    ]
+  },
+  {
+    "id": "wp_012",
+    "category": "workout_plans",
+    "topic": "deload",
+    "question": "What is a deload week and when should I do one?",
+    "answer": "A deload week is a planned reduction in training volume and/or intensity (usually 40-60% of normal). It allows accumulated fatigue to dissipate. Recommended every 4-8 weeks of hard training, or when you notice declining performance, persistent soreness, disrupted sleep, or loss of motivation to train.",
+    "keywords": [
+      "deload",
+      "recovery week",
+      "fatigue",
+      "overtraining",
+      "planned rest",
+      "periodization"
+    ]
+  },
+  {
+    "id": "ex_011",
+    "category": "exercises",
+    "topic": "deadlift",
+    "question": "How do I deadlift with proper form?",
+    "answer": "Deadlift form: (1) Bar over mid-foot, feet hip-width. (2) Hinge at hips, grip just outside legs. (3) Lats tight, chest up. (4) Push the floor away. (5) Bar stays in contact with legs throughout. (6) Lock out hips and knees simultaneously at the top. (7) Hinge back down with control. Keep spine neutral - no rounding of the lower back.",
+    "keywords": [
+      "deadlift",
+      "form",
+      "technique",
+      "hinge",
+      "spine",
+      "lower back",
+      "barbell"
+    ]
+  },
+  {
+    "id": "ex_012",
+    "category": "exercises",
+    "topic": "overhead_press",
+    "question": "What is the correct overhead press technique?",
+    "answer": "Overhead press technique: (1) Grip shoulder-width, bar on upper chest. (2) Tuck elbows slightly forward. (3) Brace core and squeeze glutes to protect lower back. (4) Press bar straight up, moving head back slightly. (5) Lock out arms overhead, bar stacked over shoulder joint. (6) Lower under control. Keep wrists neutral.",
+    "keywords": [
+      "overhead press",
+      "OHP",
+      "shoulders",
+      "form",
+      "technique",
+      "barbell press"
+    ]
+  },
+  {
+    "id": "rec_001",
+    "category": "recovery",
+    "topic": "sleep",
+    "question": "How important is sleep for muscle growth?",
+    "answer": "Sleep is arguably the single most important recovery factor. During deep sleep (slow-wave sleep), growth hormone is released - this is when most muscle repair and growth occurs. Aim for 7-9 hours per night. Poor sleep elevates cortisol, reduces testosterone, impairs protein synthesis, and decreases strength performance.",
+    "keywords": [
+      "sleep",
+      "recovery",
+      "growth hormone",
+      "muscle repair",
+      "testosterone",
+      "cortisol"
+    ]
+  },
+  {
+    "id": "rec_002",
+    "category": "recovery",
+    "topic": "soreness",
+    "question": "What is DOMS and how do I recover from it?",
+    "answer": "DOMS (Delayed Onset Muscle Soreness) peaks 24-72 hours after training, caused by microtears in muscle fibers. Recovery strategies: light movement (active recovery), adequate protein intake, sleep, hydration, and foam rolling. DOMS does NOT indicate muscle growth and decreases as the body adapts (repeated bout effect).",
+    "keywords": [
+      "DOMS",
+      "soreness",
+      "delayed onset",
+      "muscle soreness",
+      "recovery",
+      "foam rolling"
+    ]
+  },
+  {
+    "id": "rec_003",
+    "category": "recovery",
+    "topic": "stretching",
+    "question": "Should I stretch after workouts?",
+    "answer": "Post-workout static stretching is beneficial for flexibility and relaxation. Hold stretches for 30-60 seconds per muscle. Focus on the muscles you trained. Dynamic stretching is better pre-workout. Stretching does not significantly speed up muscle repair but helps maintain range of motion and reduces perceived tightness.",
+    "keywords": [
+      "stretching",
+      "flexibility",
+      "static stretch",
+      "dynamic stretch",
+      "cool down",
+      "mobility"
+    ]
+  },
+  {
+    "id": "ex_013",
+    "category": "exercises",
+    "topic": "cardio",
+    "question": "Should I do cardio on leg day?",
+    "answer": "Doing intense cardio on leg day can interfere with recovery (concurrent training effect). If you must do cardio on leg day, do it AFTER lifting, keep it low-intensity (walking, light cycling), and limit to 20-30 minutes. Separating cardio and leg training by at least 6 hours minimizes interference. LISS cardio is generally less disruptive than HIIT.",
+    "keywords": [
+      "cardio",
+      "leg day",
+      "concurrent training",
+      "LISS",
+      "HIIT",
+      "interference"
+    ]
+  },
+  {
+    "id": "ex_014",
+    "category": "exercises",
+    "topic": "pull_ups",
+    "question": "How do I progress to my first pull-up?",
+    "answer": "Pull-up progression: (1) Dead hang (30+ seconds) to build grip and shoulder stability. (2) Negative pull-ups: jump to top, lower yourself slowly (3-5 sec). (3) Band-assisted pull-ups. (4) Lat pulldowns with bodyweight equivalent. Practice 3x per week. Most people achieve their first pull-up within 4-8 weeks of consistent training.",
+    "keywords": [
+      "pull-ups",
+      "chin-ups",
+      "beginner",
+      "progression",
+      "assisted",
+      "lat"
+    ]
+  },
+  {
+    "id": "ex_015",
+    "category": "exercises",
+    "topic": "push_ups",
+    "question": "How do I do a proper push-up?",
+    "answer": "Push-up form: (1) Hands slightly wider than shoulders. (2) Straight line from head to heels. (3) Lower until chest nearly touches the floor, elbows at 45-75 degrees. (4) Press back up. (5) Core braced throughout. Variations: incline (easier), decline (harder), diamond (triceps), wide-grip (chest). Progress by adding reps or harder variations.",
+    "keywords": [
+      "push-ups",
+      "form",
+      "chest",
+      "bodyweight",
+      "technique",
+      "variations"
+    ]
+  },
+  {
+    "id": "wp_013",
+    "category": "workout_plans",
+    "topic": "abs",
+    "question": "How often should I train abs?",
+    "answer": "Train abs 2-4 times per week with 2-4 exercises per session. Use weighted exercises (cable crunches, weighted leg raises) for growth. Note that abs are revealed by low body fat, not by volume of ab training. Prioritize diet for visible abs. The abs are a muscle and need progressive overload and recovery like any other.",
+    "keywords": [
+      "abs",
+      "core",
+      "training frequency",
+      "weighted abs",
+      "visible abs",
+      "body fat"
+    ]
+  },
+  {
+    "id": "wp_014",
+    "category": "workout_plans",
+    "topic": "home_workout",
+    "question": "Can I build muscle training at home with no equipment?",
+    "answer": "Yes! Bodyweight training can build significant muscle, especially for beginners and intermediates. Progressive overload still applies (harder variations, more reps, slower tempo, pauses). Key exercises: pseudo planche push-ups, pike push-ups, pistol squats, Nordic curls, archer rows. Invest in resistance bands or gymnastic rings for advanced progression.",
+    "keywords": [
+      "home workout",
+      "no equipment",
+      "bodyweight",
+      "calisthenics",
+      "training at home"
+    ]
+  },
+  {
+    "id": "ex_016",
+    "category": "exercises",
+    "topic": "form",
+    "question": "What are the most common gym mistakes beginners make?",
+    "answer": "Top beginner mistakes: (1) Ego lifting with poor form - injury risk. (2) Not tracking workouts. (3) Skipping legs. (4) Not eating enough protein. (5) Switching programs every 2-3 weeks (program hopping). (6) Neglecting compound lifts. (7) Not sleeping enough. (8) Expecting fast results - consistency over months is key.",
+    "keywords": [
+      "beginner mistakes",
+      "common mistakes",
+      "ego lifting",
+      "form",
+      "program hopping",
+      "protein"
+    ]
+  },
+  {
+    "id": "ex_017",
+    "category": "exercises",
+    "topic": "isolation_vs_compound",
+    "question": "Should I prioritize compound or isolation exercises?",
+    "answer": "Compound exercises (squat, deadlift, bench, row, press) should be the foundation - they recruit multiple muscle groups and allow the most progressive overload. Isolation exercises (curls, lateral raises, leg extensions) target weak points. A balanced program is 70-80% compound, 20-30% isolation, with compounds done first when freshest.",
+    "keywords": [
+      "compound",
+      "isolation",
+      "exercises",
+      "squat",
+      "deadlift",
+      "bench",
+      "accessories"
+    ]
+  },
+  {
+    "id": "wp_015",
+    "category": "workout_plans",
+    "topic": "consistency",
+    "question": "How long does it take to see results from working out?",
+    "answer": "Beginners typically notice: strength gains within 2-3 weeks (neural adaptations), visible muscle changes at 6-12 weeks, significant physique transformation at 6-12 months. Fat loss becomes visible at 4-8 weeks with proper diet. Consistency matters most - 80% adherence over a year beats 100% for 2 months then quitting.",
+    "keywords": [
+      "results",
+      "timeline",
+      "how long",
+      "transformation",
+      "patience",
+      "consistency",
+      "progress"
+    ]
+  },
+  {
+    "id": "ex_018",
+    "category": "exercises",
+    "topic": "grip",
+    "question": "How do I improve grip strength for deadlifts and rows?",
+    "answer": "Grip improvement: (1) Use double overhand grip as long as possible. (2) Farmer's carries and hex bar holds. (3) Dead hangs from a pull-up bar. (4) Fat grip attachments. (5) Towel pull-ups. When grip limits your lifts, use a mixed grip or hook grip for heavy sets. Avoid straps for lighter work to maintain grip strength.",
+    "keywords": [
+      "grip strength",
+      "deadlift",
+      "rows",
+      "farmer's carry",
+      "hook grip",
+      "straps"
+    ]
+  },
+  {
+    "id": "ex_019",
+    "category": "exercises",
+    "topic": "plateau",
+    "question": "I've hit a plateau and my lifts are not going up. What should I do?",
+    "answer": "Plateau solutions: (1) Check recovery - sleeping 7-9 hours and eating enough? (2) Reduce volume temporarily (deload). (3) Change rep range. (4) Address weak points. (5) Add supplementary exercises for lagging muscles. (6) Check technique. (7) Increase training frequency for that muscle group.",
+    "keywords": [
+      "plateau",
+      "stuck",
+      "progress stalled",
+      "deload",
+      "weak points",
+      "technique",
+      "frequency"
+    ]
+  },
+  {
+    "id": "ex_020",
+    "category": "exercises",
+    "topic": "mobility",
+    "question": "How important is mobility and flexibility for lifting?",
+    "answer": "Mobility is critical for safe, effective lifting. Limited mobility forces compensations that reduce performance and increase injury risk. Key areas: thoracic spine (bench/OHP), hip flexors and ankles (squats), shoulder external rotation (overhead press), hamstrings (deadlifts). Dedicate 10-15 minutes post-workout or on rest days to mobility work.",
+    "keywords": [
+      "mobility",
+      "flexibility",
+      "range of motion",
+      "injury prevention",
+      "thoracic",
+      "hip",
+      "ankle"
+    ]
+  }
+]
